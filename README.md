@@ -2,7 +2,7 @@
 
 > **Realtime Human-Aware AI Interface** — Face Recognition, Emotion Detection, Valence/Arousal Visualization — all in a slick PyQt5 GUI.  
 
-![Demo Banner](https://user-images.githubusercontent.com/your-demo-banner.png) <!-- Replace with actual demo GIF/screenshot -->
+![Banner Coming Soon](https://user-images.githubusercontent.com/your-demo-banner.png) <!-- Replace with actual demo GIF/screenshot -->
 
 ---
 
@@ -110,4 +110,4 @@ python realtime_face_emotion_app.py
 ---
 
 ## 🧑‍💻 Author
-Made by [Bittesh](https://github.com/BITtech05)  
+Made by [Bittesh Bhattacharya](https://github.com/BITtech05)  
