@@ -1,6 +1,6 @@
 """
 Realtime Face + Emotion + Valence/Arousal App
-Option B — Full workable PyQt5 + PyQtGraph application
+Full workable PyQt5 + PyQtGraph application
 
 CONTENTS OF THIS FILE
 1) Project map / Outline (what this app does, components, dataflow)
